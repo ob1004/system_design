@@ -8,6 +8,7 @@ Created on Thu Aug  5 23:22:19 2021
 import csv
 
 print("classify")
+print("11")
 
 class1=['诉讼','立案','司法','法律文书','起诉','法院','涉诉','仲裁','判决']
 class2=['投资者关系活动','接待日','调研','集体接待']
